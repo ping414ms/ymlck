@@ -1,0 +1,2 @@
+# ymlck
+YAML syntax checker
